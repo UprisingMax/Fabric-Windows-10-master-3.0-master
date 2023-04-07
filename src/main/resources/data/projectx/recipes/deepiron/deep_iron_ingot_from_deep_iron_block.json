@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tanzanite",
+  "ingredients": [
+    {
+      "item": "projectx:deep_iron_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "projectx:deep_iron_ingot"
+  }
+}

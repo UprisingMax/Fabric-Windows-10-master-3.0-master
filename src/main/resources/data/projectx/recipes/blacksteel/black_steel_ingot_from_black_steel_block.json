@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tanzanite",
+  "ingredients": [
+    {
+      "item": "projectx:black_steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "projectx:black_steel_ingot"
+  }
+}

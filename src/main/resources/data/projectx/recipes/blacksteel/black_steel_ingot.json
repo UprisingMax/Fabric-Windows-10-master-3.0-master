@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "projectx:infuscolium_dust"
+    },
+    "X": {
+      "item": "projectx:deep_iron_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "projectx:black_steel_ingot"
+  }
+}

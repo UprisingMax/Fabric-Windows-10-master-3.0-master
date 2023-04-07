@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tanzanite",
+  "key": {
+    "#": {
+      "item": "projectx:mythril_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "projectx:mythril_ingot"
+  }
+}

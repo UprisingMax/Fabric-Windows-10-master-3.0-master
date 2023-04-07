@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "key": {
+    "#": {
+      "item": "projectx:plant_fiber"
+    }
+  },
+  "pattern": [
+    "   ",
+    "#  ",
+    "## "
+  ],
+  "result": {
+    "count": 1,
+    "item": "projectx:twine_bundle"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "tanzanite",
+  "ingredient": {
+    "item": "projectx:end_stone_infuscolium_ore"
+  },
+  "result": "projectx:infuscolium_ingot"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tanzanite",
+  "ingredients": [
+    {
+      "item": "projectx:adamantium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "projectx:adamantium_ingot"
+  }
+}

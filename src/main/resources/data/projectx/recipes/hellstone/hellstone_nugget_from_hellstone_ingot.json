@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectx:hellstone_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "projectx:hellstone_nugget"
+  }
+}

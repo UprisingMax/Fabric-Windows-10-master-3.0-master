@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tanzanite",
+  "key": {
+    "#": {
+      "item": "projectx:hellstone_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "projectx:hellstone_ingot"
+  }
+}

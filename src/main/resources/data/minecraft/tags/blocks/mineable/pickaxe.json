@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values" : [
+    "projectx:tanzanite_ore",
+    "projectx:tanzanite_block",
+    "projectx:deepslate_tanzanite_ore",
+    "projectx:deepslate_adamantium_ore",
+    "projectx:deepslate_deep_iron_ore",
+    "projectx:end_stone_infuscolium_ore",
+    "projectx:hellstone_ore",
+    "projectx:deepslate_mythril_ore",
+    "projectx:mythril_block",
+    "projectx:hellstone_block",
+    "projectx:deep_iron_block",
+    "projectx:adamantium_block",
+    "projectx:infuscolium_block"
+
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values" : [
+    "projectx:tanzanite_block",
+    "projectx:tanzanite_ore",
+    "projectx:deepslate_tanzanite_ore"
+  ]
+}

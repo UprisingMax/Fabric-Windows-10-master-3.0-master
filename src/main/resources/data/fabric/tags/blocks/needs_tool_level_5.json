@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values" : [
+    "projectx:deepslate_adamantium_ore",
+    "projectx:hellstone_ore",
+    "projectx:deepslate_mythril_ore",
+    "projectx:mythril_block",
+    "projectx:hellstone_block",
+    "projectx:adamantium_block",
+    "minecraft:stone"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectx:deep_iron_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "projectx:deep_iron_nugget"
+  }
+}
